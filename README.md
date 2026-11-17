@@ -1,6 +1,6 @@
 # AnyDesk Timer Fix
 
-Guia rápido e script automatizado para remover o cronômetro de contagem regressiva (60s ou 999s) do AnyDesk no Windows, mantendo todas as suas configurações e senhas salvas.
+Guia rápido e script automatizado para remover o cronômetro de contagem regressiva (60s ou 999s) do AnyDesk no Windows, mantendo todas as suas configurações, mas perdendo as senhas salvas.
 
 ---
 
